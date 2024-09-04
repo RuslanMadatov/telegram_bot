@@ -1,0 +1,3 @@
+from change_button import new_product_composition
+from change_button import new_photo
+from change_button import new_product_price
